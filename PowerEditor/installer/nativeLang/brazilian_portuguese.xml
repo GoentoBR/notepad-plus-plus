@@ -5,17 +5,17 @@
             <Main>
                 <!-- Main Menu Entries -->
                 <Entries>
-                    <Item menuId="file" name="&amp;Arquivo" />
-                    <Item menuId="edit" name="&amp;Editar" />
-                    <Item menuId="search" name="Locali&amp;zar" />
-                    <Item menuId="view" name="&amp;Visualizar" />
-                    <Item menuId="encoding" name="&amp;Formatar" />
-                    <Item menuId="language" name="&amp;Linguagem" />
-                    <Item menuId="settings" name="Confi&amp;gurações" />
-                    <Item menuId="macro" name="&amp;Macro" />
-                    <Item menuId="run" name="Executa&amp;r" />
-                    <Item idName="Plugins" name="&amp;Plugins" />
-                    <Item idName="Window" name="&amp;Janela" />
+                    <Item menuId="file" name="Arquivo" />
+                    <Item menuId="edit" name="Editar" />
+                    <Item menuId="search" name="Buscar" />
+                    <Item menuId="view" name="Visualizar" />
+                    <Item menuId="encoding" name="Formatar" />
+                    <Item menuId="language" name="Idioma" />
+                    <Item menuId="settings" name="Configurações" />
+                    <Item menuId="macro" name="Macro" />
+                    <Item menuId="run" name="Executar" />
+                    <Item idName="Plugins" name="Plugins" />
+                    <Item idName="Window" name="Janela" />
                 </Entries>
                 <!-- Sub Menu Entries -->
                 <SubEntries>
